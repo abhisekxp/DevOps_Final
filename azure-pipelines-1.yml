@@ -3,6 +3,7 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 # Adding this line for CICD
+# Adding this line to see if Release Pipeline triggers
 
 trigger:
 - master
